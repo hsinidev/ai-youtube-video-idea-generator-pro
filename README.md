@@ -1,6 +1,6 @@
 # 🤖 AI YouTube Video Idea Generator
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-doodax.com-8A2BE2?style=for-the-badge)](https://doodax.com)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-doodax.com-8A2BE2?style=for-the-badge)](https://doodax.com/tools/ai-youtube-video-idea-generator/index.html)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A state-of-the-art, AI-powered application designed to revolutionize content creation. This tool leverages simulated Large Language Model (LLM) capabilities to brainstorm viral video concepts, titles, and structures tailored to specific niches and audiences.
